@@ -1,1 +1,2 @@
-# CatCare
+# catcare-lampnet-project
+The design of a landing page for a cat vet website...
